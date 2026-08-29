@@ -1,0 +1,1187 @@
+Patient,Cancer,5-Fluorouracil,Cisplatin,Cyclophosphamide,Docetaxel,Doxorubicin,Etoposide,Gemcitabine,Paclitaxel,Temozolomide
+TCGA-05-4384,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-05-4390,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-05-4398,Lung,NA,NA,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-05-4427,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-05-4432,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-05-5425,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-05-5428,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-13-A5FT,Ovarian,NA,Complete Response,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-18-3412,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-18-3415,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-19-5960,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-29-A5NZ,Ovarian,NA,NA,NA,NA,Partial Response,NA,Clinical Progressive Disease,Partial Response,NA
+TCGA-2E-A9G8,Uterine,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-2G-AAF6,Testis,NA,Complete Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-2G-AAF8,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAFE,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAFG,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAFH,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAFL,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAFM,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAFN,Testis,NA,Partial Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-2G-AAFO,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAFY,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAFZ,Testis,NA,Partial Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-2G-AAG0,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAG5,Testis,NA,Partial Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-2G-AAG8,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAG9,Testis,NA,Partial Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-2G-AAGA,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAGC,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAGE,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAGF,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAGG,Testis,NA,Partial Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-2G-AAGJ,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAGK,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAGN,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAGO,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAGP,Testis,NA,Stable Disease,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAGS,Testis,NA,Complete Response,NA,NA,NA,Stable Disease,NA,NA,NA
+TCGA-2G-AAGT,Testis,NA,Partial Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-2G-AAGV,Testis,NA,Stable Disease,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAGZ,Testis,NA,Partial Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-2G-AAH0,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAH4,Testis,NA,Partial Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-2G-AAH8,Testis,NA,Complete Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-2G-AAHA,Testis,NA,Partial Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-2G-AAHC,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAKD,Testis,NA,Partial Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAKG,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAKH,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAKL,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2G-AAKM,Testis,NA,Partial Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-2G-AAL7,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-2L-AAQA,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-2L-AAQE,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-2L-AAQI,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-2L-AAQJ,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-2W-A8YY,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-2X-A9D5,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-33-AASI,Lung,NA,NA,NA,Complete Response,NA,NA,Complete Response,NA,NA
+TCGA-34-5240,Lung,NA,Complete Response,NA,Stable Disease,NA,NA,NA,NA,NA
+TCGA-34-8454,Lung,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-37-A5EL,Lung,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-3A-A9I5,Pancreas,Stable Disease,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-3A-A9I9,Pancreas,Clinical Progressive Disease,NA,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-3A-A9IC,Pancreas,Complete Response,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-3A-A9IH,Pancreas,NA,NA,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-3A-A9IX,Pancreas,Complete Response,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-3A-A9IZ,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-3A-A9J0,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-3B-A9HL,Sarcoma,NA,NA,NA,Clinical Progressive Disease,NA,NA,Complete Response,NA,NA
+TCGA-3B-A9HP,Sarcoma,NA,NA,NA,Stable Disease,NA,NA,Stable Disease,NA,NA
+TCGA-3B-A9HR,Sarcoma,NA,NA,NA,Complete Response,NA,NA,Complete Response,NA,NA
+TCGA-3B-A9HS,Sarcoma,NA,NA,NA,Complete Response,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-3B-A9HT,Sarcoma,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-3B-A9HV,Sarcoma,NA,NA,NA,Complete Response,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA
+TCGA-3B-A9HZ,Sarcoma,NA,NA,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-3B-A9I0,Sarcoma,NA,NA,NA,Clinical Progressive Disease,Complete Response,NA,Clinical Progressive Disease,NA,NA
+TCGA-3B-A9I1,Sarcoma,NA,NA,NA,NA,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA
+TCGA-3E-AAAZ,Pancreas,NA,NA,NA,Partial Response,NA,NA,Partial Response,NA,NA
+TCGA-3H-AB3M,Lung,NA,Stable Disease,NA,NA,Stable Disease,NA,NA,NA,NA
+TCGA-3H-AB3O,Lung,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-3H-AB3S,Lung,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-3H-AB3X,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-3M-AB46,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-3M-AB47,Esophagus/Stomach,Stable Disease,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-3P-A9WA,Ovarian,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-3X-AAV9,Gallbladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-43-5668,Lung,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-43-6647,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-43-A474,Lung,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-43-A475,Lung,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-43-A56V,Lung,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-44-8117,Lung,NA,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-49-AAR2,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-49-AAR4,Lung,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-4G-AAZO,Gallbladder,NA,NA,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-4H-AAAK,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-4K-AA1G,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-4K-AAAL,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-50-5051,Lung,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-50-5055,Lung,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-50-5066,Lung,NA,NA,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-50-5068,Lung,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-50-5072,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-50-5930,Lung,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-50-5933,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-50-5936,Lung,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-50-5941,Lung,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-50-6590,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-50-8459,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-52-7812,Lung,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-53-7624,Lung,NA,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-53-7626,Lung,NA,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-53-7813,Lung,NA,NA,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-53-A4EZ,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-55-1596,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-55-5899,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-55-6712,Lung,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-55-6970,Lung,NA,Stable Disease,NA,Stable Disease,NA,NA,NA,NA,NA
+TCGA-55-6979,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-55-6982,Lung,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-55-7281,Lung,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-55-7576,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-55-7910,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-55-7994,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-55-7995,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-55-8301,Lung,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-55-8505,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-55-8508,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-55-8615,Lung,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-55-A48Z,Lung,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-56-7222,Lung,NA,Complete Response,NA,NA,NA,NA,Complete Response,Clinical Progressive Disease,NA
+TCGA-56-7579,Lung,NA,NA,NA,Complete Response,NA,NA,Clinical Progressive Disease,Clinical Progressive Disease,NA
+TCGA-56-7823,Lung,NA,Complete Response,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-56-8308,Lung,NA,NA,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-56-8624,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-56-8625,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-56-8629,Lung,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-56-A4BW,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-56-A62T,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-58-8387,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-58-8391,Lung,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-58-A46L,Lung,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-5S-A9Q8,Uterine,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-5T-A9QA,Breast,NA,NA,Partial Response,NA,Partial Response,NA,NA,NA,NA
+TCGA-5U-AB0D,Thymoma,NA,Partial Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-5X-AA5U,Ovarian,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-62-A46Y,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-62-A471,Lung,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-64-5779,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-64-5781,Lung,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-64-5815,Lung,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-66-2757,Lung,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-66-2758,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-66-2778,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-66-2783,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-68-A59I,Lung,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-69-7973,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-69-A59K,Lung,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-71-6725,Lung,NA,Clinical Progressive Disease,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA
+TCGA-73-4675,Lung,NA,Complete Response,NA,Stable Disease,NA,NA,NA,NA,NA
+TCGA-73-7498,Lung,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-73-A9RS,Lung,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-85-6798,Lung,NA,Stable Disease,NA,NA,NA,Stable Disease,NA,NA,NA
+TCGA-85-7697,Lung,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-85-7698,Lung,NA,Complete Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-85-7699,Lung,NA,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA
+TCGA-85-8276,Lung,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-85-8351,Lung,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-85-A50Z,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-85-A512,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-86-7701,Lung,NA,Complete Response,NA,Stable Disease,NA,Complete Response,NA,NA,NA
+TCGA-86-7711,Lung,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-86-7713,Lung,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-86-7954,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-86-7955,Lung,NA,Partial Response,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-86-8054,Lung,NA,Complete Response,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-86-8075,Lung,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-86-8076,Lung,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-86-8278,Lung,NA,Stable Disease,NA,NA,NA,Stable Disease,NA,NA,NA
+TCGA-86-8279,Lung,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-86-8280,Lung,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-86-8669,Lung,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-86-8671,Lung,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-86-8674,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-86-A4D0,Lung,NA,Partial Response,NA,NA,NA,Stable Disease,NA,NA,NA
+TCGA-86-A4P8,Lung,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-90-6837,Lung,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA,NA
+TCGA-90-A4EE,Lung,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-90-A59Q,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-91-6848,Lung,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-91-7771,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-95-A4VK,Lung,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-95-A4VP,Lung,NA,NA,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-96-A4JK,Lung,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-96-A4JL,Lung,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-97-8547,Lung,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-A2-A0CK,Breast,NA,NA,Complete Response,Complete Response,Complete Response,NA,NA,Complete Response,NA
+TCGA-A2-A0CL,Breast,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-A2-A0CR,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-A2-A0EP,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-A2-A0EW,Breast,NA,NA,NA,NA,Complete Response,NA,NA,NA,NA
+TCGA-A2-A3XS,Breast,NA,NA,Complete Response,Clinical Progressive Disease,Complete Response,NA,NA,Complete Response,NA
+TCGA-A2-A3XT,Breast,NA,NA,Partial Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-A2-A3XV,Breast,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-A2-A3XW,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-A2-A3XX,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-A2-A3XY,Breast,NA,NA,Complete Response,Clinical Progressive Disease,Complete Response,NA,Complete Response,Complete Response,NA
+TCGA-A2-A3XZ,Breast,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-A2-A3Y0,Breast,NA,NA,Complete Response,Partial Response,Partial Response,NA,NA,NA,NA
+TCGA-A2-A4RY,Breast,NA,NA,Complete Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-A2-A4S2,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-A4-7287,Kidney,NA,Clinical Progressive Disease,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-A5-A7WK,Uterine,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-A5-AB3J,Uterine,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-A6-5664,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-A6-A565,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-A6-A566,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-A6-A56B,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-A6-A5ZU,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-A7-A4SA,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-A7-A4SB,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A7-A4SD,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A7-A4SE,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-A7-A4SF,Breast,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-A7-A5ZV,Breast,NA,NA,Partial Response,NA,Partial Response,NA,NA,Partial Response,NA
+TCGA-A7-A5ZW,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A7-A5ZX,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-A7-A6VV,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A7-A6VW,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-A7-A6VX,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A7-A6VY,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-A8-A06R,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-A8-A075,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A8-A07C,Breast,Complete Response,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A8-A07F,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-A8-A07G,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-A8-A07I,Breast,Complete Response,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A8-A07J,Breast,Complete Response,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A8-A082,Breast,Stable Disease,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A8-A086,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A8-A08B,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-A8-A08C,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-A8-A08F,Breast,Complete Response,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A8-A08G,Breast,Complete Response,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A8-A08I,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-A8-A08O,Breast,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-A8-A08P,Breast,Complete Response,NA,Complete Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-A8-A08X,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-A8-A092,Breast,NA,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA
+TCGA-A8-A095,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-A8-A097,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-A8-A09D,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-A8-A09M,Breast,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-A8-A0A6,Breast,NA,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-A8-A0AB,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-AA-3713,Colon,Partial Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AA-A02K,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AC-A23G,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-AC-A2BK,Breast,NA,NA,Complete Response,NA,Stable Disease,NA,NA,Complete Response,NA
+TCGA-AC-A2FB,Breast,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-AC-A2FE,Breast,NA,NA,Complete Response,NA,Partial Response,NA,NA,Complete Response,NA
+TCGA-AC-A2FF,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-AC-A2FK,Breast,NA,NA,Complete Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-AC-A2QH,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-AC-A2QI,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-AC-A2QJ,Breast,NA,NA,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA
+TCGA-AC-A3BB,Breast,NA,NA,Complete Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-AC-A3TM,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-AC-A3W5,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-AC-A3YI,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-AC-A62V,Breast,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-AD-6965,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AF-6136,Colon,Stable Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AF-A56L,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AG-3731,Colon,Partial Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AG-4022,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AH-6544,Colon,Stable Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AH-6643,Colon,Partial Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AH-6903,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AJ-A23N,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-AJ-A2QM,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-AJ-A3BD,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-AJ-A3BF,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-AJ-A3BG,Uterine,NA,NA,NA,Partial Response,NA,NA,NA,NA,NA
+TCGA-AJ-A3BI,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-AJ-A3EK,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-AJ-A3I9,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-AJ-A3NH,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-AJ-A3OJ,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-AJ-A3OK,Uterine,NA,NA,NA,Clinical Progressive Disease,Partial Response,NA,NA,NA,NA
+TCGA-AJ-A3OL,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-AJ-A3QS,Uterine,NA,Stable Disease,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-AP-A3K1,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-AP-A5FX,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-AQ-A54O,Breast,NA,NA,Complete Response,NA,Stable Disease,NA,NA,Complete Response,NA
+TCGA-AQ-A7U7,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-AY-A8YK,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AZ-4682,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AZ-6600,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-AZ-6606,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-B5-A1MS,Uterine,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-B6-A402,Breast,NA,NA,Partial Response,NA,Partial Response,NA,NA,Partial Response,NA
+TCGA-B7-A5TN,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BA-A4IF,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BA-A4IH,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BA-A6D8,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BA-A6DA,Head and Neck ,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-BA-A6DD,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BA-A6DI,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BA-A6DJ,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BA-A6DL,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-BB-7864,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BB-7866,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BB-7872,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BB-A5HU,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BB-A5HY,Head and Neck ,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BG-A3PP,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-BH-A0AV,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-BH-A0AZ,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-BH-A0B0,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-BH-A0B5,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-BH-A0B7,Breast,NA,NA,NA,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-BH-A0BL,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-BH-A0BS,Breast,NA,NA,Complete Response,NA,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-BH-A0BT,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-BH-A0BW,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-BH-A0BZ,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-BH-A0C1,Breast,NA,NA,Clinical Progressive Disease,NA,Complete Response,NA,NA,NA,NA
+TCGA-BH-A0C3,Breast,NA,NA,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-BH-A0C7,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-BH-A0DD,Breast,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-BH-A0DG,Breast,NA,NA,Complete Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-BH-A0DI,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-BH-A0DL,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-BH-A0DT,Breast,NA,NA,Complete Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-BH-A0DV,Breast,NA,NA,Complete Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-BH-A0DX,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-BH-A0E9,Breast,NA,NA,Complete Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-BH-A0EA,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-BH-A0H5,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-BH-A0HY,Breast,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-BH-A0W7,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-BH-A18F,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-BH-A18H,Breast,NA,NA,Complete Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-BH-A18I,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-BH-A202,Breast,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-BH-A28O,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-BH-A2L8,Breast,NA,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-BH-A5IZ,Breast,NA,NA,Complete Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-BH-A8G0,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-BR-6457,Esophagus/Stomach,Stable Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-BR-6458,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-BR-6563,Esophagus/Stomach,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-BR-6706,Esophagus/Stomach,Stable Disease,NA,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-BR-6707,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-BR-6709,Esophagus/Stomach,Partial Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BR-6710,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-BR-6802,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-BR-7959,Esophagus/Stomach,NA,NA,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-BR-8291,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA
+TCGA-BR-8296,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-BR-8297,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA
+TCGA-BR-8362,Esophagus/Stomach,Clinical Progressive Disease,Clinical Progressive Disease,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-BR-8367,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-BR-8371,Esophagus/Stomach,Clinical Progressive Disease,Clinical Progressive Disease,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA
+TCGA-BR-8372,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-BR-8373,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-BR-8380,Esophagus/Stomach,Stable Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-BR-8381,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-BR-8590,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-BR-8592,Esophagus/Stomach,Stable Disease,NA,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-BR-8690,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-BR-A44T,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,Stable Disease,NA,NA,NA
+TCGA-BR-A4J2,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BR-A4QI,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA
+TCGA-BR-A4QL,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-BR-A4QM,Esophagus/Stomach,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-BT-A20N,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-BT-A20T,Bladder,NA,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-BT-A2LA,Bladder,NA,NA,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-BT-A2LD,Bladder,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-BT-A42E,Bladder,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-C4-A0EZ,Bladder,NA,NA,NA,NA,Partial Response,Partial Response,NA,NA,NA
+TCGA-C5-A1BQ,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-C8-A12Z,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-C8-A131,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-C8-A134,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-C8-A135,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-C8-A1HM,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-C8-A1HO,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-C8-A26W,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-C8-A26X,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-C8-A27A,Breast,Clinical Progressive Disease,NA,Stable Disease,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-C8-A27B,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-C8-A8HP,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-C8-A8HR,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-CA-5254,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-CA-5255,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-CA-5256,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-CA-5796,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-CA-6715,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-CA-6716,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-CA-6717,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-CD-5804,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CD-8524,Esophagus/Stomach,Clinical Progressive Disease,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-CD-8525,Esophagus/Stomach,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CD-8526,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CD-8527,Esophagus/Stomach,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-CD-8528,Esophagus/Stomach,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CD-8529,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CD-8530,Esophagus/Stomach,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CD-8531,Esophagus/Stomach,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CD-8535,Esophagus/Stomach,Complete Response,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-CD-8536,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CD-A486,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-CD-A4MH,Esophagus/Stomach,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CD-A4MJ,Esophagus/Stomach,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CE-A481,Thyroid,NA,NA,NA,NA,Complete Response,NA,NA,NA,NA
+TCGA-CE-A482,Thyroid,NA,NA,NA,NA,Complete Response,NA,NA,NA,NA
+TCGA-CF-A47S,Bladder,NA,NA,NA,NA,Complete Response,NA,NA,NA,NA
+TCGA-CF-A47T,Bladder,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-CG-4305,Esophagus/Stomach,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CG-4444,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-CG-4460,Esophagus/Stomach,Partial Response,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CG-4472,Esophagus/Stomach,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CG-4477,Esophagus/Stomach,Clinical Progressive Disease,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-CG-5717,Esophagus/Stomach,Clinical Progressive Disease,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-CG-5724,Esophagus/Stomach,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-CG-5725,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-CG-5732,Esophagus/Stomach,Clinical Progressive Disease,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-CI-6620,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-CK-4950,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-CN-4731,Head and Neck ,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-CN-6989,Head and Neck ,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-CN-6998,Head and Neck ,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-CN-A498,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-CN-A63T,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CN-A63W,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CN-A641,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CN-A6V3,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CN-A6V6,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CN-A6V7,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CQ-A4CH,Head and Neck ,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-CR-5247,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-CR-5248,Head and Neck ,NA,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA,NA,Complete Response,NA
+TCGA-CR-6491,Head and Neck ,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-CR-6493,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-CR-7383,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-CR-7389,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-CR-7393,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-CR-7397,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-CR-7404,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-CU-A3YL,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-D1-A3DA,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-D1-A3JQ,Uterine,NA,Clinical Progressive Disease,NA,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-D3-A1Q1,Skin,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA
+TCGA-D3-A1Q3,Skin,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-D6-A6EK,Head and Neck ,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-D7-6520,Esophagus/Stomach,Clinical Progressive Disease,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-D7-8579,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-D7-A747,Esophagus/Stomach,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-D7-A748,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-D8-A3Z6,Breast,NA,NA,Stable Disease,NA,Stable Disease,NA,NA,Stable Disease,NA
+TCGA-DB-A4XB,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DB-A4XD,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Partial Response
+TCGA-DB-A4XF,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DB-A4XG,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DB-A64O,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DB-A64P,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DB-A64V,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DB-A64W,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DB-A64X,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DB-A75K,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-DD-A11D,Liver,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DD-A1EH,Liver,NA,NA,NA,NA,Partial Response,NA,NA,NA,NA
+TCGA-DD-A3A4,Liver,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-DD-A4NS,Liver,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-DH-A66B,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DH-A66D,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DH-A7UR,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-DH-A7UT,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DH-A7UU,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DH-A7UV,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DI-A2QY,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-DK-A1A7,Bladder,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-DK-A1AC,Bladder,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-DK-A3IQ,Bladder,NA,NA,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-DK-A3IU,Bladder,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-DK-A3IV,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-DK-A3WW,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,Complete Response,NA
+TCGA-DK-A3WX,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-DK-A3WY,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-DK-A6B2,Bladder,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-DK-A6B5,Bladder,NA,Complete Response,NA,NA,NA,NA,Partial Response,Complete Response,NA
+TCGA-DK-A6B6,Bladder,NA,Partial Response,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-DK-AA6M,Bladder,NA,Partial Response,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-DK-AA6P,Bladder,NA,Stable Disease,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-DK-AA6R,Bladder,NA,NA,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-DK-AA6S,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-DK-AA6T,Bladder,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-DK-AA6U,Bladder,NA,Complete Response,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-DK-AA6W,Bladder,NA,NA,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-DK-AA76,Bladder,NA,Partial Response,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-DQ-7589,Head and Neck ,Stable Disease,NA,NA,Stable Disease,NA,NA,NA,Complete Response,NA
+TCGA-DQ-7590,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-DQ-7593,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-DQ-7594,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-DQ-7595,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-DS-A5RQ,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-DS-A7WF,Uterine,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-DS-A7WH,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-DS-A7WI,Uterine,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-DU-8161,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-DU-8162,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DU-8163,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DU-8165,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-DU-8166,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-DU-8168,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DU-A5TP,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-DU-A5TS,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DU-A5TU,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DU-A5TY,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-DU-A6S6,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DU-A6S7,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DU-A76K,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-DU-A76L,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-DU-A76O,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DU-A76R,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-DU-A7T8,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-DU-A7TA,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-DU-A7TB,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-DU-A7TD,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-DU-A7TI,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-DX-A3LU,Sarcoma,NA,NA,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-DX-A3U7,Sarcoma,NA,NA,NA,Clinical Progressive Disease,Clinical Progressive Disease,NA,Partial Response,NA,NA
+TCGA-DX-A3UC,Sarcoma,NA,NA,NA,Clinical Progressive Disease,Stable Disease,NA,Clinical Progressive Disease,NA,NA
+TCGA-DX-A6B7,Sarcoma,NA,NA,NA,Complete Response,NA,NA,Complete Response,NA,NA
+TCGA-DX-A6B8,Sarcoma,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-DX-A6YX,Sarcoma,NA,NA,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-DX-A7EN,Sarcoma,NA,NA,NA,Complete Response,NA,NA,Complete Response,NA,NA
+TCGA-DX-A7EQ,Sarcoma,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-DX-A8BT,Sarcoma,NA,NA,NA,Complete Response,NA,NA,Complete Response,NA,NA
+TCGA-DX-A8BU,Sarcoma,NA,NA,NA,Clinical Progressive Disease,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA
+TCGA-DX-A8BV,Sarcoma,NA,NA,NA,Clinical Progressive Disease,Stable Disease,NA,Clinical Progressive Disease,NA,NA
+TCGA-DX-AB2E,Sarcoma,NA,NA,NA,NA,Partial Response,NA,NA,NA,NA
+TCGA-DX-AB3B,Sarcoma,NA,NA,NA,NA,Complete Response,NA,NA,NA,NA
+TCGA-DX-AB3C,Sarcoma,NA,NA,NA,NA,Partial Response,Complete Response,NA,NA,NA
+TCGA-E1-A7YE,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-E1-A7YH,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-E1-A7YJ,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-E1-A7YK,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-E1-A7YL,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-E1-A7YM,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-E1-A7YN,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-E1-A7YQ,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-E1-A7YS,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-E1-A7YV,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-E1-A7YW,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-E1-A7YY,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-E1-A7Z2,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-E1-A7Z4,Brain,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-E1-A7Z6,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-E2-A572,Breast,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-E2-A573,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-E5-A2PC,Bladder,NA,Complete Response,NA,NA,Complete Response,NA,NA,NA,NA
+TCGA-E5-A4U1,Bladder,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-E6-A8L9,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-E9-A1N3,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-E9-A1N6,Breast,NA,NA,Stable Disease,NA,Stable Disease,NA,NA,NA,NA
+TCGA-E9-A1NC,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-E9-A1NE,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-E9-A1NI,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-E9-A1R2,Breast,NA,NA,Complete Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-E9-A227,Breast,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-E9-A2JS,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-E9-A3HO,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-E9-A3Q9,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-E9-A3X8,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-E9-A5FK,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA,NA
+TCGA-E9-A6HE,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-EA-A3QD,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-EA-A43B,Uterine,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-EA-A44S,Uterine,NA,NA,NA,NA,Stable Disease,NA,Stable Disease,NA,NA
+TCGA-EA-A4BA,Uterine,NA,NA,Partial Response,NA,Partial Response,NA,NA,NA,NA
+TCGA-EB-A57M,Skin,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-EB-A5KH,Skin,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-EB-A5SH,Skin,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-EK-A2H0,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-EK-A2RL,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-EO-A22X,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-EO-A3AV,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-EO-A3B1,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-EO-A3KU,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-EW-A1OY,Breast,NA,NA,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-EW-A1P3,Breast,NA,NA,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-EW-A2FR,Breast,NA,NA,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-EW-A3U0,Breast,NA,Complete Response,Complete Response,Complete Response,Complete Response,NA,NA,NA,NA
+TCGA-EW-A424,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-EX-A3L1,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-EX-A449,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-EY-A2ON,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-EY-A3L3,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-EY-A3QX,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-EY-A4KR,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-EY-A54A,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-F1-A448,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-F2-6879,Pancreas,NA,NA,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-F2-6880,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-F2-7273,Pancreas,NA,NA,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-F2-7276,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-F2-A44G,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-F2-A44H,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-F2-A8YN,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-F4-6569,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-F4-6806,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-F4-6856,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-F5-6571,Colon,Stable Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-F5-6702,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-F5-6863,Colon,Stable Disease,NA,NA,NA,NA,Stable Disease,NA,NA,NA
+TCGA-F5-6864,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-F7-A50J,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-FB-A4P6,Pancreas,Stable Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-FB-A545,Pancreas,Clinical Progressive Disease,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-FB-A5VM,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-FB-A78T,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-FB-AAPP,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-FB-AAPY,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-FB-AAQ6,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-FD-A3B4,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-FD-A3SJ,Bladder,NA,Stable Disease,NA,NA,Stable Disease,NA,Stable Disease,NA,NA
+TCGA-FD-A3SO,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-FD-A3SQ,Bladder,NA,Stable Disease,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-FD-A43S,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-FD-A43U,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-FD-A5BS,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-FD-A5C1,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-FD-A62S,Bladder,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-FD-A6TC,Bladder,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-FG-5963,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-FG-6689,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-FG-7638,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-FG-8181,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-FG-8185,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-FG-8189,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-FG-8191,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-FG-A4MW,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-FG-A6J3,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-FG-A70Y,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-FG-A710,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-FG-A711,Brain,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease
+TCGA-FI-A2EY,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-FJ-A3Z7,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-FJ-A3Z9,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-FJ-A871,Bladder,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA
+TCGA-FN-7833,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-FP-7829,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-FP-7998,Esophagus/Stomach,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-FP-8209,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-FP-8210,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-FP-A4BE,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-FP-A9TM,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-FS-A1ZE,Skin,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-FS-A4F0,Skin,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-FU-A23L,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-FU-A3HY,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-FU-A3HZ,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-FU-A3WB,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-FU-A40J,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-FV-A3I0,Liver,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-FX-A3RE,Sarcoma,NA,NA,NA,NA,Complete Response,NA,NA,NA,NA
+TCGA-FX-A48G,Sarcoma,NA,NA,NA,Clinical Progressive Disease,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA
+TCGA-G2-A2EC,Bladder,NA,Partial Response,NA,NA,Partial Response,NA,NA,NA,NA
+TCGA-G2-A2EF,Bladder,NA,Partial Response,NA,NA,Partial Response,NA,NA,NA,NA
+TCGA-G2-A2EJ,Bladder,NA,Stable Disease,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-G2-A2EK,Bladder,NA,Stable Disease,NA,NA,Stable Disease,NA,NA,NA,NA
+TCGA-G2-A2EL,Bladder,NA,NA,NA,NA,NA,Stable Disease,NA,Stable Disease,NA
+TCGA-G2-A3IB,Bladder,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-G2-A3IE,Bladder,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,Partial Response,NA,NA
+TCGA-G2-AA3C,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-G2-AA3D,Bladder,NA,Partial Response,NA,NA,Partial Response,NA,NA,NA,NA
+TCGA-G2-AA3F,Bladder,NA,Partial Response,NA,NA,Partial Response,NA,NA,NA,NA
+TCGA-G9-A9S0,Prostate,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-GC-A3YS,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-GD-A3OS,Bladder,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-GF-A3OT,Skin,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-GM-A2D9,Breast,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-GM-A2DA,Breast,Complete Response,NA,Complete Response,Stable Disease,Complete Response,NA,NA,NA,NA
+TCGA-GM-A2DB,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA
+TCGA-GM-A2DC,Breast,NA,NA,Partial Response,Partial Response,NA,NA,NA,NA,NA
+TCGA-GM-A2DD,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-GM-A2DF,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA
+TCGA-GM-A2DH,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-GM-A2DI,Breast,Complete Response,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-GM-A2DM,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA
+TCGA-GM-A2DN,Breast,Complete Response,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA
+TCGA-GM-A3NW,Breast,Stable Disease,NA,Stable Disease,NA,NA,NA,NA,NA,NA
+TCGA-GM-A3XG,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-GM-A3XL,Breast,Stable Disease,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-GM-A3XN,Breast,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-GM-A4E0,Breast,Complete Response,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-GM-A5PV,Breast,NA,NA,Stable Disease,Complete Response,NA,NA,NA,NA,NA
+TCGA-GU-A42R,Bladder,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-GV-A3JW,Bladder,NA,NA,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-GV-A3QF,Bladder,NA,NA,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-GV-A3QH,Bladder,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-GV-A3QI,Bladder,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-GV-A40E,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-H7-A6C4,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-H8-A6C1,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-HB-A43Z,Sarcoma,NA,NA,NA,Complete Response,Complete Response,NA,Complete Response,NA,NA
+TCGA-HD-7229,Head and Neck ,Clinical Progressive Disease,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-HD-8314,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-HG-A2PA,Uterine,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-HJ-7597,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-HL-7533,Head and Neck ,NA,Complete Response,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-HM-A4S6,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-HS-A5N9,Sarcoma,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-HT-7477,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-HT-7483,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-HT-7604,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Partial Response
+TCGA-HT-7884,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-HT-8011,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-HT-8113,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-HT-8114,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-HT-8564,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-HT-A4DV,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-HT-A5RA,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-HT-A5RC,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-HT-A619,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-HT-A61C,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-HT-A74K,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-HU-8243,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-HU-A4GJ,Esophagus/Stomach,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-HU-A4GX,Esophagus/Stomach,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-HV-A7OP,Pancreas,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-HV-AA8V,Pancreas,Clinical Progressive Disease,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-HV-AA8X,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-HW-7487,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-HW-8319,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Partial Response
+TCGA-HW-8320,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-HW-8321,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-HW-A5KJ,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-HW-A5KK,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-HW-A5KL,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-HZ-7918,Pancreas,Stable Disease,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-HZ-7920,Pancreas,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-HZ-7923,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-HZ-7924,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-HZ-8001,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-HZ-8317,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-HZ-8637,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-HZ-A49G,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-HZ-A49H,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-HZ-A49I,Pancreas,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-HZ-A77O,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-HZ-A77P,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-HZ-A9TJ,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-IA-A83W,Kidney,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-IB-7644,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-IB-7645,Pancreas,Clinical Progressive Disease,NA,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-IB-7647,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-IB-7651,Pancreas,Clinical Progressive Disease,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-IB-7652,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-IB-7885,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-IB-7888,Pancreas,Stable Disease,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-IB-7889,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-IB-7891,Pancreas,Complete Response,NA,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-IB-8126,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-IB-8127,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-IB-A5SO,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-IB-A5SP,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-IB-A5SS,Pancreas,NA,NA,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-IB-A6UF,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-IB-A7LX,Pancreas,Clinical Progressive Disease,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-IB-AAUO,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-IB-AAUQ,Pancreas,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-IC-A6RF,Esophagus/Stomach,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-IE-A3OV,Sarcoma,NA,NA,NA,Clinical Progressive Disease,Clinical Progressive Disease,NA,Complete Response,NA,NA
+TCGA-IE-A4EH,Sarcoma,NA,NA,NA,Complete Response,NA,NA,Complete Response,NA,NA
+TCGA-IE-A6BZ,Sarcoma,NA,NA,NA,NA,Complete Response,NA,NA,NA,NA
+TCGA-IF-A3RQ,Sarcoma,NA,NA,NA,NA,Partial Response,NA,NA,NA,NA
+TCGA-IF-A4AJ,Sarcoma,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-IG-A3I8,Esophagus/Stomach,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-IG-A3YC,Esophagus/Stomach,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA
+TCGA-IG-A7DP,Esophagus/Stomach,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-IK-8125,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-IN-8462,Esophagus/Stomach,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-IN-A6RO,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-IN-A7NU,Esophagus/Stomach,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-IQ-7630,Head and Neck ,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-IQ-A61E,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-IQ-A61G,Head and Neck ,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-IQ-A61J,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-IQ-A61O,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-IR-A3L7,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-IR-A3LA,Uterine,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-IR-A3LB,Uterine,Complete Response,Complete Response,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-IR-A3LC,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-IR-A3LH,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-IR-A3LI,Uterine,NA,Partial Response,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-IR-A3LK,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-IR-A3LL,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-IS-A3K7,Sarcoma,NA,NA,NA,NA,Partial Response,NA,NA,NA,NA
+TCGA-IW-A3M4,Sarcoma,NA,NA,NA,Complete Response,NA,NA,Complete Response,NA,NA
+TCGA-J1-A4AH,Lung,NA,Partial Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-J2-8194,Lung,NA,NA,NA,Stable Disease,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-JU-AAVI,Uterine,NA,Partial Response,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-JV-A5VE,Sarcoma,NA,NA,NA,Complete Response,NA,NA,Complete Response,NA,NA
+TCGA-JW-A5VH,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-JY-A6FA,Esophagus/Stomach,Partial Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-JY-A93D,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-K1-A3PN,Sarcoma,NA,NA,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-K1-A42X,Sarcoma,NA,NA,NA,NA,Complete Response,NA,Clinical Progressive Disease,NA,NA
+TCGA-K1-A6RU,Sarcoma,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-K4-A83P,Bladder,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-K4-AAQO,Bladder,NA,Partial Response,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-K6-A3WQ,Uterine,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-KB-A6F7,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-KB-A93J,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-KD-A5QS,Sarcoma,NA,NA,NA,Partial Response,Partial Response,NA,Complete Response,NA,NA
+TCGA-KD-A5QU,Sarcoma,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-KF-A41W,Sarcoma,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-KK-A8II,Prostate,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-KQ-A41P,Bladder,NA,NA,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-KT-A74X,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-KT-A7W1,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-KU-A6H7,Head and Neck ,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-L1-A7W4,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-L3-A524,Lung,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-L5-A88W,Esophagus/Stomach,NA,NA,NA,NA,NA,NA,Partial Response,Clinical Progressive Disease,NA
+TCGA-L7-A56G,Esophagus/Stomach,NA,Stable Disease,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-L7-A6VZ,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-L9-A743,Lung,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-L9-A7SV,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-LB-A8F3,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-LB-A9Q5,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-LD-A74U,Breast,NA,NA,NA,Stable Disease,NA,NA,NA,NA,NA
+TCGA-LD-A7W5,Breast,NA,NA,NA,Stable Disease,NA,NA,NA,NA,NA
+TCGA-LI-A67I,Sarcoma,NA,NA,NA,NA,Complete Response,NA,NA,NA,NA
+TCGA-LK-A4NW,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-LK-A4NZ,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-LK-A4O0,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-LK-A4O5,Lung,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-LK-A4O7,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-LL-A440,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-LL-A441,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-LL-A5YO,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-LL-A73Z,Breast,NA,NA,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA
+TCGA-LL-A740,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-LL-A7SZ,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-LN-A49R,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-LN-A49V,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-LN-A49W,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-LN-A4A1,Esophagus/Stomach,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-LN-A4A2,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-LN-A4A3,Esophagus/Stomach,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-LN-A4MQ,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-LN-A4MR,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-LN-A5U7,Esophagus/Stomach,Complete Response,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-LN-A7HY,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-LN-A7HZ,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-LN-A8HZ,Esophagus/Stomach,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-LP-A4AU,Uterine,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-LT-A5Z6,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-MA-AA3W,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-MA-AA3X,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-MO-A47P,Sarcoma,NA,NA,NA,NA,Complete Response,NA,NA,NA,NA
+TCGA-MP-A4T9,Lung,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-MP-A4TC,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-MP-A4TD,Lung,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-MP-A4TF,Lung,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-MQ-A6BN,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-MQ-A6BQ,Lung,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-MQ-A6BR,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-MS-A51U,Breast,NA,NA,Stable Disease,NA,Stable Disease,NA,NA,Stable Disease,NA
+TCGA-MX-A666,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-MY-A5BD,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-MY-A5BF,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-MY-A913,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-MZ-A5BI,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-MZ-A6I9,Head and Neck ,NA,Complete Response,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-MZ-A7D7,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-N5-A4RF,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-N5-A4RJ,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-N5-A4RM,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-N5-A4RN,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-N5-A4RO,Uterine,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-N5-A4RS,Uterine,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-N5-A4RT,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-N5-A4RU,Uterine,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-N5-A4RV,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-N5-A59E,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-N5-A59F,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-N6-A4V9,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-N6-A4VE,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-N6-A4VF,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-N6-A4VG,Uterine,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-N7-A4Y0,Uterine,NA,Stable Disease,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-N7-A4Y8,Uterine,NA,NA,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-N7-A59B,Uterine,NA,NA,NA,Complete Response,NA,NA,NA,Complete Response,NA
+TCGA-N8-A4PI,Uterine,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-N8-A4PM,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-N8-A4PN,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-N8-A4PO,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-N8-A4PQ,Uterine,NA,NA,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-N8-A56S,Uterine,NA,NA,NA,NA,NA,NA,NA,Stable Disease,NA
+TCGA-N9-A4PZ,Uterine,NA,NA,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,Complete Response,NA
+TCGA-N9-A4Q1,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-N9-A4Q3,Uterine,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA,Partial Response,NA
+TCGA-N9-A4Q7,Uterine,NA,NA,NA,Complete Response,NA,NA,NA,Complete Response,NA
+TCGA-N9-A4Q8,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-NA-A4QW,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-NC-A5HE,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-NC-A5HG,Lung,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-NC-A5HI,Lung,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-NC-A5HJ,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-NC-A5HK,Lung,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-NC-A5HP,Lung,NA,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-NC-A5HT,Lung,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,Partial Response,NA
+TCGA-NF-A4WX,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-NG-A4VU,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-NG-A4VW,Uterine,NA,Complete Response,Complete Response,NA,Stable Disease,NA,NA,NA,NA
+TCGA-NH-A50U,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-NH-A50V,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-NH-A6GA,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-NH-A6GB,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-NH-A8F7,Colon,Partial Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-NH-A8F8,Colon,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-NJ-A7XG,Lung,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-NK-A5D1,Lung,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-OE-A75W,Pancreas,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-OL-A5D7,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-OL-A5RU,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-OL-A5RV,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-OL-A5RW,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Clinical Progressive Disease,NA
+TCGA-OL-A5RZ,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-OL-A5S0,Breast,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-OL-A66I,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-OL-A66O,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-OL-A66P,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-OL-A6VO,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-OU-A5PI,Adrenal Gland,NA,Stable Disease,NA,NA,Stable Disease,Stable Disease,NA,NA,NA
+TCGA-OY-A56P,Ovarian,NA,NA,NA,Stable Disease,NA,NA,NA,NA,NA
+TCGA-OY-A56Q,Ovarian,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-P3-A5Q6,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-P3-A6SW,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-P3-A6T2,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-P3-A6T3,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-P3-A6T6,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-P3-A6T7,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-P3-A6T8,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-P5-A5EX,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Partial Response
+TCGA-PE-A5DE,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-PT-A8TR,Sarcoma,NA,NA,NA,Complete Response,NA,NA,Complete Response,NA,NA
+TCGA-Q1-A5R2,Uterine,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-Q1-A5R3,Uterine,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-Q1-A73O,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-Q3-A5QY,Pancreas,NA,NA,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-QF-A5YS,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-QF-A5YT,Uterine,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-QH-A65R,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-QH-A65X,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-QH-A6CS,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-QH-A6CY,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-QH-A6X4,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-QH-A6X8,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-QH-A6XC,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-QK-A6IF,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-QK-A6IG,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-QK-A6IH,Head and Neck ,Stable Disease,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-QK-A6II,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-QK-A8Z7,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-QK-A8Z9,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-QQ-A8VD,Sarcoma,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-QS-A5YQ,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-QS-A8F1,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-QT-A5XJ,Kidney,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-R6-A8W5,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-RA-A741,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-RB-AA9M,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-RN-AAAQ,Sarcoma,NA,NA,NA,NA,Partial Response,NA,NA,NA,NA
+TCGA-S3-A6ZF,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-S3-A6ZG,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-S3-A6ZH,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-S3-AA0Z,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-S3-AA10,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-S3-AA14,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-S3-AA15,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-S4-A8RM,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-S6-A8JY,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-S9-A6TS,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-S9-A6TV,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A6TW,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A6TX,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A6TY,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A6U0,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-S9-A6U1,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-S9-A6U8,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-S9-A6WD,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A6WG,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A6WM,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A6WN,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A7IX,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-S9-A7J0,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A7QW,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A7QY,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A7R1,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A7R4,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A7R7,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-S9-A7R8,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-S9-A89V,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-S9-A89Z,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-SC-A6LM,Lung,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-SC-A6LP,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-SC-A6LQ,Lung,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-SC-A6LR,Lung,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-SH-A7BD,Lung,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-SH-A7BH,Lung,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-SH-A9CT,Lung,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-SH-A9CU,Lung,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-SS-A7HO,Colon,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-SW-A7EB,Esophagus/Stomach,Stable Disease,Stable Disease,NA,NA,Stable Disease,NA,NA,NA,NA
+TCGA-SY-A9G5,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-T2-A6WX,Head and Neck ,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-T2-A6WZ,Head and Neck ,NA,NA,NA,Stable Disease,NA,NA,NA,NA,NA
+TCGA-T2-A6X0,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-TM-A84B,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-TM-A84C,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Complete Response
+TCGA-TM-A84L,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease
+TCGA-TN-A7HJ,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-TN-A7HL,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-UB-A7MA,Liver,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-UB-A7MB,Liver,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-UC-A7PG,Uterine,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-UD-AAC1,Lung,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-UD-AAC4,Lung,NA,Stable Disease,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-UF-A7JC,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-UF-A7JF,Head and Neck ,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-UF-A7JJ,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-UF-A7JK,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-UF-A7JT,Head and Neck ,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-US-A774,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-UT-A88C,Lung,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-UT-A88D,Lung,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-UY-A78L,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-UY-A8OB,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-V5-A7RC,Esophagus/Stomach,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-V5-A7RE,Esophagus/Stomach,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-V5-AASV,Esophagus/Stomach,NA,NA,NA,NA,NA,NA,NA,Partial Response,NA
+TCGA-VF-A8AD,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-VM-A8C8,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-VM-A8CE,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-VM-A8CF,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-VP-A87D,Prostate,NA,NA,NA,Complete Response,NA,NA,NA,NA,NA
+TCGA-VQ-A8DT,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A8DU,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A8DZ,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A8E0,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A8E2,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A8P3,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A8PB,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A8PD,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A8PP,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A8PU,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A91D,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A91E,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A91K,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A91N,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A91Q,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A91S,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A91V,Esophagus/Stomach,Clinical Progressive Disease,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A91W,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A91Y,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A91Z,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A922,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A928,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A94O,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-A94R,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-AA64,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-AA68,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-AA6B,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-AA6D,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-AA6F,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-AA6G,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VQ-AA6K,Esophagus/Stomach,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VR-A8EQ,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VR-A8ER,Esophagus/Stomach,Complete Response,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VR-AA4D,Esophagus/Stomach,Complete Response,NA,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A8EC,Uterine,NA,NA,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-VS-A8EH,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A8EI,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A8EJ,Uterine,Clinical Progressive Disease,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A8EK,Uterine,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A8EL,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A8QC,Uterine,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-VS-A8QF,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A8QH,Uterine,NA,NA,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-VS-A8QM,Uterine,Clinical Progressive Disease,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A94W,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A94X,Uterine,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A94Y,Uterine,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A94Z,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A954,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A957,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A958,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9U5,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9U6,Uterine,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9U7,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9UB,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9UC,Uterine,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9UD,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9UH,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9UM,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,Complete Response,NA
+TCGA-VS-A9UO,Uterine,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9UP,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9UR,Uterine,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9UU,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9UY,Uterine,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9V0,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9V1,Uterine,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-A9V3,Uterine,NA,Complete Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-VS-AA62,Uterine,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-VV-A829,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-VW-A7QS,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Partial Response
+TCGA-W3-A825,Skin,NA,Partial Response,NA,NA,NA,NA,NA,NA,NA
+TCGA-W3-AA1O,Skin,NA,Clinical Progressive Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-W3-AA1Q,Skin,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-W3-AA21,Skin,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,Clinical Progressive Disease
+TCGA-W5-AA2H,Gallbladder,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-W5-AA2T,Gallbladder,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-W5-AA2Z,Gallbladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-W5-AA36,Gallbladder,NA,NA,NA,NA,NA,NA,Stable Disease,NA,NA
+TCGA-WB-A81Q,Kidney,NA,NA,Clinical Progressive Disease,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-WH-A86K,Brain,NA,NA,NA,NA,NA,NA,NA,NA,Stable Disease
+TCGA-WR-A838,Ovarian,NA,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA
+TCGA-WT-AB41,Breast,NA,NA,Complete Response,Clinical Progressive Disease,NA,NA,NA,NA,NA
+TCGA-X2-A95T,Sarcoma,NA,NA,NA,Complete Response,NA,NA,Complete Response,NA,NA
+TCGA-X6-A7WC,Sarcoma,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-X6-A8C4,Sarcoma,NA,NA,NA,Complete Response,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-X6-A8C6,Sarcoma,NA,NA,NA,NA,Complete Response,NA,Complete Response,NA,NA
+TCGA-X7-A8M6,Thymoma,NA,Clinical Progressive Disease,Clinical Progressive Disease,NA,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-X9-A971,Sarcoma,NA,NA,NA,Complete Response,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-X9-A973,Sarcoma,NA,NA,NA,NA,Stable Disease,NA,NA,NA,NA
+TCGA-XD-AAUG,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-XD-AAUI,Pancreas,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-XE-A8H1,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-XE-AANJ,Testis,NA,Clinical Progressive Disease,NA,NA,NA,Clinical Progressive Disease,NA,Complete Response,NA
+TCGA-XE-AANV,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-XE-AAOD,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-XE-AAOJ,Testis,NA,Partial Response,NA,NA,NA,Partial Response,NA,NA,NA
+TCGA-XF-A9SH,Bladder,NA,NA,NA,Clinical Progressive Disease,Clinical Progressive Disease,NA,NA,NA,NA
+TCGA-XF-A9SK,Bladder,NA,NA,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-XF-A9SU,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-XF-A9SV,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-XF-A9SX,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-XF-A9SY,Bladder,NA,NA,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-XF-A9SZ,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-XF-A9T4,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Partial Response,Clinical Progressive Disease,NA
+TCGA-XF-A9T5,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-XF-AAME,Bladder,NA,Partial Response,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-XF-AAMG,Bladder,NA,Complete Response,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-XF-AAMJ,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-XF-AAMR,Bladder,NA,Stable Disease,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-XF-AAMY,Bladder,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-XF-AAN0,Bladder,NA,Partial Response,NA,NA,Complete Response,NA,Clinical Progressive Disease,Complete Response,NA
+TCGA-XF-AAN3,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-XF-AAN5,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-XF-AAN7,Bladder,NA,Complete Response,NA,NA,NA,NA,Partial Response,Complete Response,NA
+TCGA-XM-AAZ1,Thymoma,NA,Stable Disease,NA,NA,NA,NA,NA,NA,NA
+TCGA-XX-A899,Breast,NA,NA,Complete Response,Complete Response,NA,NA,NA,NA,NA
+TCGA-YB-A89D,Pancreas,Complete Response,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-YC-A89H,Bladder,NA,Stable Disease,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-YY-A8LH,Pancreas,NA,NA,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-Z5-AAPL,Pancreas,Complete Response,NA,Complete Response,NA,Complete Response,NA,NA,NA,NA
+TCGA-Z7-A8R5,Breast,NA,NA,Stable Disease,NA,Stable Disease,NA,NA,Complete Response,NA
+TCGA-Z7-A8R6,Breast,NA,NA,Complete Response,NA,Complete Response,NA,NA,Complete Response,NA
+TCGA-ZF-AA51,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-ZF-AA53,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-ZF-AA58,Bladder,NA,Complete Response,NA,NA,NA,NA,Complete Response,NA,NA
+TCGA-ZF-AA5H,Bladder,NA,Clinical Progressive Disease,NA,NA,NA,NA,Clinical Progressive Disease,NA,NA
+TCGA-ZH-A8Y4,Gallbladder,NA,NA,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-ZH-A8Y5,Gallbladder,NA,Partial Response,NA,NA,NA,NA,Partial Response,NA,NA
+TCGA-ZM-AA05,Testis,NA,Complete Response,NA,NA,NA,Complete Response,NA,NA,NA
+TCGA-ZM-AA06,Testis,NA,Complete Response,NA,NA,NA,Partial Response,NA,NA,NA

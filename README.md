@@ -29,13 +29,13 @@ pip install -r requirements.txt
 
 The pipeline is split into three main stages: pre-training, fine-tuning, and evaluation. 
 
-#### 🔹 Phase 1: pre-training / Retraining
+#### 🔹🔹🔹 Phase 1: pre-training / Retraining
 To start the model pre-training phase, open `main.py` and set `retrain_flag = True`. Then execute the script:
 ```bash
 python main.py
 ```
 
-#### 🔹 Phase 2: Fine-Tuning / Running
+#### 🔹🔹🔹 Phase 2: Fine-Tuning / Running
 To switch to the fine-tuning and prediction phase, open `main.py` and set `retrain_flag = False`. Then execute the script:
 ```bash
 python main.py
@@ -57,9 +57,7 @@ python main.py
 └── main.py                 # Main entry script (Controls training/fine-tuning via retrain_flag)
 ```
 
-## Data
-
+## 📦 Dataset
 Please ensure your gene expression data and drug response datasets are formatted properly before running the scripts. 
-The genomics datasets used in this study are available at: https://github.com/liuxuan666/TransDRP.
-The TME-related data will be uploaded promptly after the peer review process is completed.
+- **Google Drive / Direct Download**: [TMEDRPdata.zip](https://drive.google.com/file/d/18QEVwjuekks-_2JvsqXBrBzhOD68JPY5/view?usp=sharing)
 

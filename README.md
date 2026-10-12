@@ -61,3 +61,9 @@ python main.py
 Please ensure your gene expression data and drug response datasets are formatted properly before running the scripts. 
 - **Google Drive / Direct Download**: [TMEDRPdata.zip](https://drive.google.com/file/d/18QEVwjuekks-_2JvsqXBrBzhOD68JPY5/view?usp=sharing)
 
+## Notes on Supplementary Material Updates
+The TCGA clinical response annotations used in TMEDRP were inherited from the TransDRP benchmark, and the initial dataset statistics were carried over from the corresponding data summary.
+During subsequent research, we revisited the underlying clinical response records and identified discrepancies in the previously reported sensitivity rates. We therefore recalculated the positive sample proportions directly from the clinical annotations and updated Table S1 accordingly.
+**This correction concerns the reported dataset statistics only.** It does not involve changes to the original clinical response records or the TMEDRP model training and evaluation results.
+
+Note for researchers reproducing TransDRP. During our initial review of the publicly available TransDRP implementation, we also noticed a potential issue in its clinical response binarization: Partial Response is mapped to 0.0 (resistant), rather than 1.0 (sensitive). This is inconsistent with the commonly adopted definition in which both Complete Response (CR) and Partial Response (PR) are considered sensitive. We recommend that researchers reproducing TransDRP carefully check the Binarize mapping in its data loader and change 'Partial Response': 0.0 to 'Partial Response': 1.0 when adopting the CR/PR-sensitive definition. We highlight this detail to help ensure consistent label definitions and reproducible comparisons.
